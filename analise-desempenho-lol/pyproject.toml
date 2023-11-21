@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "analise-desempenho-lol"
+version = "0.1.0"
+description = ""
+authors = ["azevedo <azevedoantoniocicero@gmail.com>"]
+readme = "README.md"
+packages = [{include = "analise_desempenho_lol"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+jupyter = "^1.0.0"
+mwclient = "^0.10.1"
+tqdm = "^4.66.1"
+pandas = "^2.1.3"
+mwrogue = "^0.1.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

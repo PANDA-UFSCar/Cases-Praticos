@@ -34,3 +34,4 @@ ajudar os times a identificar áreas de foco para melhorar e aprimorar suas estr
 
 ##### Apresentação
 [Slides no canva](https://www.canva.com/design/DAFyq5JksAk/QeHZgN4Y1Kg3b4bb0_6nMg/edit)
+
